@@ -1,11 +1,7 @@
-Core Dependencies
-
-mutagen Pillow requests openpyxl
-
-Discogs API Client
-
+mutagen
+Pillow
+requests
+openpyxl
 discogs-client
-
-Optional but recommended
-
-tqdm pandas
+tqdm
+pandas
