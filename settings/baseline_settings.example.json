@@ -1,0 +1,19 @@
+{
+  "discogs": {
+    "consumer_key": "",
+    "consumer_secret": "",
+    "user_agent": "Baseline (Music library maintenance for DJs)",
+    "min_art_size": 500,
+    "auto_accept_resize_small_art": false,
+    "placeholder_image": "",
+    "fallback_image": "",
+    "format_priority": [
+      "Vinyl",
+      "CD",
+      "Digital"
+    ]
+  },
+  "mik": {
+    "db_path": ""
+  }
+}
