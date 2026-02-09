@@ -1,2 +1,2 @@
 # Baseline
-Music Maintenance Toolbox for DJs
+Music Maintenance Suite for DJs
