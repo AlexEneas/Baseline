@@ -1,0 +1,11 @@
+Core Dependencies
+
+mutagen Pillow requests openpyxl
+
+Discogs API Client
+
+discogs-client
+
+Optional but recommended
+
+tqdm pandas
